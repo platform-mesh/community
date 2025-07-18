@@ -10,7 +10,7 @@ Welcome to the PlatformMesh community page!
 If you are looking for information on how to join us, you are in the right place. Read on to find out how you can get involved, contribute to PlatformMesh code and documentation, and stay in touch with the latest PlatformMesh news. Let's get started!
 
 ## Security / Disclosure
-If you find any bug that may be a security problem, please follow our instructions at [in our security policy](https://github.com/platformmesh/extension-manager-operator/security/policy) on how to report it. Please do not create GitHub issues for security-related doubts or problems.
+If you find any bug that may be a security problem, please follow our instructions at [in our security policy](SECURITY.md) on how to report it. Please do not create GitHub issues for security-related doubts or problems.
 
 ## Contributing
 
