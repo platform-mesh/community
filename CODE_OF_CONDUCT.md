@@ -1,6 +1,6 @@
-# SAP Open Source Code of Conduct
+# NeoNephos Open Source Code of Conduct
 
-SAP adopts the [Contributor's Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+NeoNephos adopts the [Contributor's Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
 across our open source projects to ensure a welcoming and open culture for everyone involved.
 
 ## Our Pledge
@@ -39,7 +39,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [ospo@sap.com](mailto:ospo@sap.com) (SAP Open Source Program Office). All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [email@neonephos.com](). All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
