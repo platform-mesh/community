@@ -1,7 +1,7 @@
 # PlatformMesh - Community
 
 [![REUSE status](
-https://api.reuse.software/badge/github.com/platformmesh/community)](https://api.reuse.software/info/github.com/platformmesh/community)
+https://api.reuse.software/badge/github.com/platform-mesh/community)](https://api.reuse.software/info/github.com/platform-mesh/community)
 
 ## Description
 
