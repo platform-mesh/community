@@ -5,7 +5,7 @@ The PlatformMesh Technical Steering Committee (TSC) is responsible for the techn
 ## Members
 - @aaronschweig
 - @nexus49 
-- @mirzakopic 
+- @mirzakopic (TSC)
 - @tjbutz
 - @ntnn
 
