@@ -1,0 +1,9 @@
+version = 1
+SPDX-PackageName = "community"
+SPDX-PackageDownloadLocation = "https://github.com/platformmesh/community"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 SAP SE or an SAP affiliate company and PlatformMesh contributors and community contributors."
+SPDX-License-Identifier = "Apache-2.0"

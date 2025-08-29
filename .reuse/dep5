@@ -1,8 +1,0 @@
-Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: community
-Upstream-Contact: 
-Source: https://github.com/platformmesh/community
-
-Files: *
-Copyright: 2024 SAP SE or an SAP affiliate company and PlatformMesh contributors and community contributors.
-License: Apache-2.0
