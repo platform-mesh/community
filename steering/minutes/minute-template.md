@@ -1,4 +1,4 @@
-# TSC Meeting Minutes
+# Steering Committee Meeting Minutes
 
 - Date: `YYYY-MM-DD`
 - Participants:
