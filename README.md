@@ -10,7 +10,7 @@ If you are looking for information on how to join us, you are in the right place
 
 ## Community Calls
 
-We meet bi-weekly Tuesday at 16:00 CET/CEST. Checkout [COMMUNITY_CALLS.md](COMMUNITY_CALLS.md) file for more community meetings info such as dates, agenda and watch past recordings.
+We meet bi-weekly Tuesday at 16:00 CET/CEST[(map to your timezone)](https://www.timeanddate.com/worldclock/converter.html?iso=20260616T140000&p1=1440&p2=4826&p3=234&p4=195&p5=83). Checkout [COMMUNITY_CALLS.md](COMMUNITY_CALLS.md) file for more community meetings info such as dates, agenda and watch past recordings.
 
 ## Security / Disclosure
 If you find any bug that may be a security problem, please follow our instructions at [in our security policy](SECURITY.md) on how to report it. Please do not create GitHub issues for security-related doubts or problems.
