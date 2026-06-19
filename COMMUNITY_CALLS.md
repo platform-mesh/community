@@ -12,7 +12,7 @@ Please refer to this [community meeting doc](https://docs.google.com/document/d/
 | Date | Recording + Transcript |
 |------| -----------------------|
 | 2026-06-16 | [Recording link](https://drive.google.com/file/d/1YatZNqOxJ-_Lhzo7BsE397PiUaabBxIP/view?usp=drive_link)|
-| 2026-06-02 | not available|
+| 2026-06-02 | Intro Call - Not Recorded |
 
 
 ## 🔔 Stay Informed
