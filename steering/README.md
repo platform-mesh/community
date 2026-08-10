@@ -4,11 +4,15 @@ The PlatformMesh Steering Committee is responsible for the technical direction o
 
 ## Members
 - @aaronschweig
-- @nexus49 
+- @nexus49
 - @mjudeikis
-- @mirzakopic (Steering Committee - Chair)
 - @ntnn
 - @tjbutz
+- @mengliwg (Steering Committee - Chair)
+
+## Emeritus
+
+- @mirzakopic (former Steering Committee - Chair)
 
 ## Meetings
 
