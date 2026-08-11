@@ -6,6 +6,7 @@ The PlatformMesh Steering Committee is responsible for the technical direction o
 - @aaronschweig
 - @nexus49 
 - @mjudeikis
+- @mirzakopic
 - @mengliwg (Steering Committee - Chair)
 - @ntnn
 - @tjbutz
