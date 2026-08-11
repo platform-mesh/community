@@ -6,7 +6,8 @@ The PlatformMesh Steering Committee is responsible for the technical direction o
 - @aaronschweig
 - @nexus49 
 - @mjudeikis
-- @mirzakopic (Steering Committee - Chair)
+- @mirzakopic
+- @mengliwg (Steering Committee - Chair)
 - @ntnn
 - @tjbutz
 
@@ -15,7 +16,7 @@ The PlatformMesh Steering Committee is responsible for the technical direction o
 The Steering Committee will hold a formal meeting every month. At the moment Steering Committee meetings are held among the members and not open to the public. The agenda and minutes will be shared on this community repository.
 
 ### Meeting Series:
-- Steering Committee Monthly Meeting - First Monday of the month at 13:15-14:00 Central European Time
+- Steering Committee Monthly Meeting - Every other Wednesday at 15:00-16:00 Central European Time
 
 ### Standing Agenda
 
