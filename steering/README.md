@@ -10,17 +10,18 @@ The PlatformMesh Steering Committee is responsible for the technical direction o
 - @mengliwg (Steering Committee - Chair)
 - @ntnn
 - @tjbutz
+- @BergCyrill
 
 ## Meetings
 
-The Steering Committee will hold a formal meeting every month. At the moment Steering Committee meetings are held among the members and not open to the public. The agenda and minutes will be shared on this community repository.
+The Steering Committee will hold a formal meeting every two weeks. At the moment Steering Committee meetings are held among the members and not open to the public. The agenda and minutes will be shared on this community repository.
+
 
 ### Meeting Series:
-- Steering Committee Monthly Meeting - Every other Wednesday at 15:00-16:00 Central European Time
+- Steering Committee Bi-weekly Meeting - Every other Tuesday at 16:00-17:00 Central European Time
 
 ### Standing Agenda
 
 - Introduction to the Steering Committee review of Project Charter
-- Election of Steering Committee Chair
 - PlatformMesh project updates
-- Agenda topics from Steering Committee members
+- [Agenda topics](https://docs.google.com/document/d/1vVOwyQ6ac2UdsNhWeXlcw-qdt5fv1njRA5e2qZ9qSOM/edit?tab=t.0) from Steering Committee members
