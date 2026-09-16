@@ -12,7 +12,7 @@ dependency.
 
 ## ReBAC and Expanding the Role Access Model
 
-Platform Mesh's current access model ties permissions directly to individual identities — adequate for
+Platform Mesh's current access model ties permissions directly to individual identities - adequate for
 simple setups, but not for production environments handling sensitive workloads or operating at
 organisational scale.
 
@@ -24,7 +24,7 @@ and risk. Our prototype moves to group- and role-centric permissions, which is h
 actually manage access.
 
 **Just-in-Time / Just-Enough Access (JIT/JEA)**: Standing privileged access is one of the most common
-attack vectors in cloud infrastructure. The prototype introduces time-bound privilege elevation — access
+attack vectors in cloud infrastructure. Many third-party JIT tooling exists, but most of it integrates directly with Kubernetes RBAC and has no awareness of OpenFGA. During the hackathon we explored making Kubernetes RBAC iterate over workspace hierarchies and prototyped time-bound privilege elevation so that access
 is granted on demand, expires automatically, and leaves an audit trail.
 
 [View repository →](https://github.com/platform-mesh/hackathon-cascading-rbac-operator)
@@ -32,7 +32,7 @@ is granted on demand, expires automatically, and leaves an audit trail.
 ## Standardised IaaS APIs
 
 Without standardised IaaS APIs, Platform Mesh inherits the lock-in of whatever cloud provider it runs
-on — a real problem for public sector workloads where portability and sovereignty matter.
+on - a real problem for public sector workloads where portability and sovereignty matter.
 
 We designed a standardised IaaS API layer for Platform Mesh and built a proof of concept covering two
 scenarios: rapid workload migration when a provider becomes unavailable, and cross-border operations
